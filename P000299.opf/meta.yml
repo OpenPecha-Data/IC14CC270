@@ -1,16 +1,17 @@
-id: opecha:P000299
+id: P000299
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG3877
   title: འཇམ་དཔལ་ཡེ་ཤེས་གྲུབ་པའི་རྣམ་ཐར་རགས་ཙམ་སྐྱབས་མགོན་ཉིད་ཀྱི་གསུང་ངོ་མ་
-  volume:
+  author: ''
+  volumes:
     ce786ea7618746928e60ab4615739405:
       image_group_id: I1KG3957
       title: Volume 1 of 'jam dpal ye shes grub pa'i rnam thar rags tsam skyabs mgon
         nyid kyi gsung ngo ma
       volume_number: 1
       total_pages: 62
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: འཇམ་དཔལ་ཡེ་ཤེས་གྲུབ་པའི་རྣམ་ཐར་རགས་ཙམ་སྐྱབས་མགོན་ཉིད་ཀྱི་གསུང་ངོ་མ་
   author: ''
